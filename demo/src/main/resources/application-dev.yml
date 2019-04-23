@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /dev
+
+pageSize: 20
+devName: Yao0O
+content: "pageSize: ${pageSize}, devName: ${devName}"
+
+dev:
+  name: Yaooo
+  age: 36
+  id: 10009
